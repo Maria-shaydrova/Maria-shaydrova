@@ -4,6 +4,8 @@
 
  🌱 Actualmente estoy estudiando **Desarrollo de Aplicaciones Web**
 
+ 📫 [Mi portafolio](https://maria-shaydrova.github.io/portfolio/)
+
  💬 Puedes preguntarme sbre **HTML, CSS JavaScript, React**
 
  📫 Contacta conmigo **maria.sh.06@gmail.com**
